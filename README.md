@@ -1,4 +1,3 @@
-```markdown
 # Cần Thơ Healthcare GIS Analysis
 
 A hands-on GIS learning project analyzing the spatial distribution,
@@ -24,12 +23,12 @@ on the previous one's output:
 
 ## Tech Stack
 
-| Category            | Tools                                      |
-|----------------------|---------------------------------------------|
-| GIS / Cartography    | QGIS                                       |
-| Data Source           | OpenStreetMap, Overpass Turbo             |
-| Database              | MongoDB Atlas (2dsphere spatial indexing), MongoDB Compass |
-| Data Formats           | GeoJSON, CSV                              |
+| Category         | Tools                                                       |
+|-------------------|--------------------------------------------------------------|
+| GIS / Cartography | QGIS                                                          |
+| Data Source       | OpenStreetMap, Overpass Turbo                                 |
+| Database          | MongoDB Atlas (2dsphere spatial indexing), MongoDB Compass    |
+| Data Formats      | GeoJSON, CSV                                                   |
 
 ## Repository Structure
 
@@ -63,7 +62,7 @@ workflow description, tool-specific notes, and the resulting map.
 1. Install [QGIS](https://qgis.org/) (Long Term Release recommended).
 2. Clone this repository:
    ```bash
-   git clone https://github.com/PhamHao21/cantho-healthcare-gis-analysis.git
+   git clone https://github.com/PhamHao21/cantho-healthcare-gis.git
    ```
 3. Open the `.geojson` files in each module folder directly in QGIS
    (`Layer → Add Layer → Add Vector Layer`) to inspect or reproduce
@@ -114,4 +113,3 @@ license as noted above.
 ## Author
 
 Phạm Gia Hào — [GitHub](https://github.com/PhamHao21)
-```
