@@ -1,0 +1,20 @@
+id,@id,add,addr:city,addr:country,addr:district,addr:full,addr:hamlet,addr:housename,addr:housenumber,addr:place,addr:postcode,addr:province,addr:state,addr:street,addr:subdistrict,address,amenity,authentication:phone_call,barrier,brand,brand:wikidata,building,buy,check_date,description,dispensing,doctor,email,emergency,fixme,healthcare,healthcare:speciality,internet_access,internet_access:fee,manhole,material,name,name:en,name:id,name:vi,name:zh,note,old_name,opening_hours,operator,operator:type,phone,ref:license,rooms,specialist,specialty,species,street_cabinet,time,website,wheelchair
+node/1783222953,node/1783222953,,,,,,,,,,,,,,,,hospital,,,,,,,,,,,,,,hospital,,,,,,Trung tâm y tế dự phòng Cần Thơ,,,,,,,,,,,,,,,,,,,
+node/4362547790,node/4362547790,,,,,,,,,,,,,3 Tháng 2,,,hospital,,,,,,,,,,,,,,,,,,,,Bệnh Viện Tâm Thần tp. Cần thơ,MENTAL HOSPITAL,,Bệnh Viện Tâm Thần tp. Cần thơ,,,,,,,,,,,,,,,,
+node/5177435695,node/5177435695,,Can Tho,VN,Ninh Kiều,,,,132A,,"270000",Cần Thơ,,Nguyễn Văn Cừ Nối dài,An Khánh,,pharmacy,,,,,,,,,,,,,,,,,,,,Chi nhánh Codupha Cần Thơ,,,,,,,,,,,,,,,,,,,
+node/5177436604,node/5177436604,,Cần Thơ,VN,Ninh Kiều,,,,,,,Cần Thơ,VI,Mậu Thân,,,pharmacy,,,,,,,,,,,,,,pharmacy,,,,,,nhà thuốc thanh trúc,,,,,,,,,,,,,,,,,,,
+node/5177436605,node/5177436605,,Cần Thơ,VN,Ninh Kiều,,,,,,,Cần Thơ,VI,Mậu Thân,,,pharmacy,,,,,,,,,,,,,,pharmacy,,,,,,nhà thuốc Phúc An,,,,,,,,,,,,,,,,,,,
+node/5177436606,node/5177436606,,Cần Thơ,VN,Ninh Kiều,,,,,,,Cần Thơ,VI,Mậu Thân,,,pharmacy,,,,,,,,,,,,,,pharmacy,,,,,,nha khoa Minh Phúc,,,,,,,,,,,,,,,,,,,
+node/5211609373,node/5211609373,,Cần Thơ,,,,,Nhà thuốc Tân Hưng,"141",,,,,Châu Văn Liêm,,,pharmacy,,,,,,,,,,,,,,pharmacy,,,,,,Nhà thuốc Tân Hưng,,,,,,,,,,,,,,,,,,,
+node/5245299001,node/5245299001,,,,,"102 CMT8, Phường Cái Khế, Ninh Kiều, Cần Thơ",,,,,,,,,,,hospital,,,,,,,,,,,,,,hospital,,,,,,Bệnh viện Đa khoa Hoàn Hảo Medic Cần Thơ,,,,,,,,,,,,,,,,,,,
+node/5248125133,node/5248125133,,,,,"40 Hùng Vương, P.Thới Bình, Q.Ninh Kiều, TP.Cần Thơ",,,,,,,,,,,hospital,,,,,,,,,,,ctdcantho@vnn.vn,,,hospital,,,,,,Hội Chữ Thập Đỏ Việt Nam Thành Phố Cần Thơ,,,,,,,"Mo-Fr 07:00-11:00, 13:00-17:00; Sa 07:00-11:00",,,"02923820963",,,,,,,,https://chuthapdocantho.org.vn/,
+node/5251451634,node/5251451634,,Cần Thơ,,Bình Thủy,,,,,,,,,Nguyễn Việt Dũng,An Thới,,hospital,,,,,,,,,,,,,,hospital,,,,,,Trạm y tế phường An Thới,,,,,,,,,,,,,,,,,,,
+node/5251465816,node/5251465816,,Cần Thơ,,,,,Phoòng siêu âm bác sĩ Võ Thị Thúy,,,,,,Nguyễn Văn Linh,,,doctors,,,,,,,,,,,,,,,,,,,,Phòng siêu âm Võ Thị Thúy,,,,,,,,,,,,,,,,,,,
+node/5253417355,node/5253417355,,Cần Thơ,,Ninh Kiều,,,,,,,Cần Thơ,,Đường 3/2,,,pharmacy,,,,,,,,,,,,,,,,,,,,Nhà thuốc Thúy Linh ( Thuy Linh Drugstore ),,,,,,,7:00-23:00,,,,,,,,,,,,no
+node/5253656247,node/5253656247,,Cần Thơ,,Ninh Kiều,,,,"140",,,,,Nguyễn An Ninh,An Lạc,,doctors,,,,,,,,,,,,,,doctor,,,,,,Phước Hải,,,,,,,,,,,,,,,,,,,
+node/5257307515,node/5257307515,,,,,"312 Nguyễn Văn Linh, Phường An Khánh, Ninh Kiều, Cần Thơ, Việt Nam",,,,,,,,,,,pharmacy,,,,,,,,,,,,,,,,,,,,Nhà Thuốc Cần Thơ 3,,,,,,,,,,+84 292 3835 333,,,,,,,,,
+node/6546315820,node/6546315820,,Cần Thơ,,Ninh Kiều,,,,"9",,+84 292 3895 937,Cần Thơ,,Mậu Thân,An Nghiệp,,clinic,,,,,,,,,,,,,,clinic,,,,,,Trạm Y Tế Phường An Hòa,,,,,,,,,,,,,,,,,,,
+node/8276733942,node/8276733942,,Thành phố Cần Thơ,,quận Ninh Kiều,,,,"19",,"900000",,,Hùng Vương,phường Thới Bình,,hospital,,,,,,,,,,,,,,hospital,plastic_surgery,,,,,Thẩm mỹ viện Hoàn Mỹ Cần Thơ,,,,,,,,,,,,,,,,,,,
+node/8276897038,node/8276897038,,Cần Thơ,,Ninh Kiều,,,,số 19,,"900000",,,Hùng Vương,Thới Bình,,hair,,,,,,,,,,,,,,hair,,,,,,"Tiệm Tóc Chú Ba - 19 Hùng Vương, Cần Thơ",,,,,,,Mo-Su 08:30-20:30,,,"077 792 0319",,,,,,,,https://tiemtocchu3.vn,
+node/12960525034,node/12960525034,,,,,,,,,,,,,,,,hospital,,,,,,,,,,,,,,hospital,,,,,,Bệnh viện Đại Học Nam Cần Thơ,Nam Can Tho Medical Center,,,,,,,,,,,,,,,,,,
+node/13371427727,node/13371427727,,,,,,,,"717",,,,,3 Tháng 2,,,hospital,,,,,,,2025/12/12,,,,,no,,hospital,ophthalmology,wlan,customers,,,Bệnh Viện Mắt Sài Gòn Cần Thơ,,,,,,,,,private,+84 867010105,,,,,,,,,yes
